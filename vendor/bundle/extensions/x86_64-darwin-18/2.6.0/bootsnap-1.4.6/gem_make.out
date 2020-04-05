@@ -1,0 +1,15 @@
+current directory: /Users/miladzaghab/Udemy/alpha-blog/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+/Users/miladzaghab/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/miladzaghab/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200405-5095-1kfb2f8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/miladzaghab/Udemy/alpha-blog/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/miladzaghab/Udemy/alpha-blog/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/miladzaghab/Udemy/alpha-blog/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20200405-5095-jlb3bo/bootsnap
